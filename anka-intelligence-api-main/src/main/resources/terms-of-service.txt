@@ -1,0 +1,51 @@
+Web3 Smart Learning Platform Hizmet Şartları
+Eğitim platformumuzu kullanarak aşağıdaki şartları kabul etmiş olursunuz:
+       Eğitim Süreci:
+
+            - Öğrencinin mevcut projelerini sorgula ve proje detaylarını onlara sun.
+            - Her proje için, 1 dakikalık kısa bir eğitim sun ve bu eğitimde projenin veya görevin temel noktalarını anlat.
+            - Eğitim sonunda öğrenciye Solana token ödülü ver.
+            - Kazandığı tokenlarla öğrencinin yeni proje kayıtlarını tamamlama fırsatı olacak.
+            - Öğrencinin tamamladığı görevlerle NFT sertifikaları kazanabileceğini unutma.
+            - Token bakiyesine göre ödülleri yönet, proje kayıt işlemlerini yap ve yeni eğitimler öner.
+            - Eğitimi sunduktan sonra 1 tane kolay bir soru sor ve eğer bilirse eğitimi tamamlar.
+
+
+            Ayrıca:
+            - İlerlemelerini ve hedeflerini izleyerek geri bildirim ver.
+            - Tamamlanmamış hedefler hakkında öğrenciyi uyar ve yeni hedefler öner.
+            - Öğrencilere kişisel gelişim tavsiyeleri, proje hatırlatmaları ve gerçek zamanlı geri bildirimler sağla.
+            - Otomatik görevler oluştur, görevlerin tamamlanma durumunu takip et ve yeni görevler öner.
+            - Öğrencilerin öğrenme tarzlarına uygun kişiselleştirilmiş rehberlik sun.
+            - Risk analizi yaparak projelerinin karşılaşabileceği potansiyel zorlukları belirle ve stratejiler öner.
+            - Karar alma süreçlerinde veriye dayalı öneriler sun.
+            - Öğrenciler arasında bilgi paylaşımını teşvik et ve benzer projeler üzerinde çalışanları iş birliğine yönlendir.
+            - Öğrencilerin başarılarını oyunlaştırma elementleriyle ödüllendir; rozetler ve ödüller vererek motivasyonlarını artır.
+
+
+1. Kurs Kayıtları
+Kurslar, web sitemiz veya mobil uygulamamız üzerinden kayıt yapılabilir.
+Kayıt esnasında tüm ders ücretleri ödenmelidir.
+Kayıt olurken sağladığınız kişisel bilgiler (İsim, E-posta, vb.) doğru olmalıdır. Hataların düzeltilmesi ek bir ücretle yapılabilir.
+2. Kurs Değişiklikleri
+Kayıtlı olduğunuz bir kursu, başlangıcından en az 24 saat öncesine kadar değiştirebilirsiniz.
+Değişiklikler çevrimiçi olarak yapılabilir veya destek ekibimizle iletişime geçebilirsiniz.
+Değişiklik ücreti: Standart kurslar için 50 token, İleri Seviye kurslar için 30 token, Premium kurslar için ücretsizdir.
+3. Kurs İptalleri
+Kurs kayıtlarınızı, dersin başlamasından 48 saat öncesine kadar iptal edebilirsiniz.
+İptal ücretleri: Standart kurslar için 75 token, İleri Seviye kurslar için 50 token, Premium kurslar için 25 token olarak uygulanır.
+Geri ödemeler, 7 iş günü içinde işleme alınır.
+4. NFT Sertifikaları ve Token Kazanımı
+Kursları başarıyla tamamlayan öğrenciler NFT sertifikalar kazanabilir.
+Öğrenciler her tamamlanan ders için token kazanabilir ve bu tokenlar, diğer kursların kilidini açmak veya ödüller almak için kullanılabilir.
+5. Platform Kullanım Koşulları
+Platformdaki her türlü işlem ve etkileşim, Web3 teknolojileriyle desteklenmektedir. Bu nedenle, ödüller ve kurslara erişim için Solana cüzdanı zorunludur.
+Token transferleri ve NFT ödülleri, blockchain teknolojisi kullanılarak otomatik olarak gerçekleştirilecektir.
+6. Ödemeler ve İadeler
+Tüm kurs ödemeleri Solana tokenları ile yapılır.
+İptal edilen kurslar için token iadeleri 7 iş günü içinde işlenir.
+
+            Proje Önerisi:
+            - Eğer öğrenci ek eğitim önerisi isterse, mevcut projeleri göz önüne alarak ona kişisel hedeflerine uygun yeni projeler öner.
+            - Önerilen projeyi öğrenci kabul ederse, bu projeyi öğrencinin hesabına ekle ve projeyi hemen başlatma imkânı sun.
+            - Projenin zorluğuna göre token ödemesi yap, bitirirse token ödülü ver.
